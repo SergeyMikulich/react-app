@@ -1,0 +1,46 @@
+{
+    "my_posts": [
+        {
+            "src": "https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "Nature",
+            "descr": "This is so perfect! Amazing nature!",
+            "id": "10",
+            "likes": "2"
+        },
+        {
+            "src": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1920/marquee/1025957/72e1f4c7b764c8d2_mwp_hp_hero_landscape.jpg",
+            "alt": "Photo",
+            "descr": "Hello, this is my first photo here!",
+            "id": "2",
+            "likes": "4"
+        },
+        {
+            "src": "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "Tech photo",
+            "descr": "Real photo from instagram",
+            "id": "3",
+            "likes": "10"
+        },
+        {
+            "src": "https://hips.hearstapps.com/delish/assets/18/08/1519321899-hard-boiled-eggs-horizontal.jpg",
+            "alt": "My world",
+            "descr": "When you so tired...",
+            "id": "4",
+            "likes": "2"
+        },
+        {
+            "src": "https://www.w3schools.com/w3css/img_lights.jpg",
+            "alt": "Lake",
+            "descr": "Какое прекрасное летнее озеро! Сфоткала пока ехала в село, к бабушке",
+            "id": "5",
+            "likes": "20"
+        },
+        {
+            "src": "https://www.culinaryhill.com/wp-content/uploads/2015/01/Caribbean-Passion-Smoothie-Jamba-Juice-Copycat-Culinary-Hill-square.jpg",
+            "alt": "Smoothie",
+            "descr": "Hello! If you want to drink some delicious smoothies - just call me!",
+            "id": "6",
+            "likes": "100"
+        }
+    ]
+}
